@@ -3,7 +3,7 @@
 A TextMate bundle for the HTML Canvas api.
 
 [TextMate](http://macromates.com/) is a text editor / IDE for Mac OS X. This bundle adds functionality for developing with the HTML Canvas api.
-For more information see:
+For more information on Canvas see:
 
 *	[HTML Canvas specification](http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html)
 *	[MDN Canvas doc centre](https://developer.mozilla.org/en/HTML/Canvas)
@@ -13,7 +13,7 @@ For more information see:
 
 The bundle currently only provides snippets for the Canvas api methods. This helps avoid looking up the documentation for method names and arguments. The completion also reduces typing effort.
 
-**Note:** The bundle binds the alt-option-c key sequence while in the source.js context. That means alt-option-c will open a context menu listing all the api methods.
+**Note:** The bundle binds the `alt-option-c` key sequence while in the `source.js` context. That means `alt-option-c` will open a context menu listing all the api methods.
 
 Contribution is very welcome. Fork and go for it!
 
