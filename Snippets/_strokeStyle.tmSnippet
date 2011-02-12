@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.strokeStyle = '${2:rgba(0, 0, 0, 1.0)}';</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.strokeStyle</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>8D26788D-06FD-4D6C-AA53-4D2689B7DFAB</string>
+</dict>
+</plist>

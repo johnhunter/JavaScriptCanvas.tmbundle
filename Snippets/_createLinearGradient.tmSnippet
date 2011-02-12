@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.createLinearGradient(${2:x1}, ${3:y1}, ${4:x2}, ${5:y2});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.createLinearGradient</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>1761B117-013E-4596-B247-49077FDFB187</string>
+</dict>
+</plist>

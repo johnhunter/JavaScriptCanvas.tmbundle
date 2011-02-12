@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.save();
+</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.save</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>C0118B0A-16C8-413F-9DFC-3BB2EB796A7F</string>
+</dict>
+</plist>

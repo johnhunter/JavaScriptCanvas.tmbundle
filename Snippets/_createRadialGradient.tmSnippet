@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.createRadialGradient(${2:x1}, ${3:y1}, ${4:r1}, ${5:x2}, ${6:y2}, ${7:r2});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.createRadialGradient</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>0FC5183E-4B0B-4036-B780-B27A7930556F</string>
+</dict>
+</plist>

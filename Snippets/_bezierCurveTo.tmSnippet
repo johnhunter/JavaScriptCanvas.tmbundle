@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.bezierCurveTo(${2:cp1x}, ${3:cp1y}, ${4:cp2x}, ${5:cp2y}, ${6:x}, ${7:y});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.bezierCurveTo</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>EC0A086E-E228-4414-8B82-3DC47F714784</string>
+</dict>
+</plist>

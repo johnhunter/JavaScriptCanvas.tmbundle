@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.textAlign = "${2:start/center/end/left/right}";</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.textAlign</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>A66E495E-DB68-46E3-ADB8-DE7374678A05</string>
+</dict>
+</plist>

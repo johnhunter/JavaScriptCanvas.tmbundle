@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.measureText('${2:text}');</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.measureText</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>E64BC5A0-8409-4FA5-9BF4-7C2777066642</string>
+</dict>
+</plist>

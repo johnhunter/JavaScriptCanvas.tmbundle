@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.transform(${2:m11}, ${:3m12}, ${:4m21}, ${:5m22}, ${:6dx}, ${:7dy});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.transform</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>53DFB535-C84E-472B-81E7-0F070E93DC74</string>
+</dict>
+</plist>

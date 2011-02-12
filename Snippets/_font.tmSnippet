@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.font = "${2:normal/italic/oblique} ${3:normal/small-caps} ${4:normal/bold} ${5:1em/1.5em} ${6:Arial}, ${7:sans-}serif";</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.font</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>FD9E0E59-FC70-4D82-A210-53E001761850</string>
+</dict>
+</plist>

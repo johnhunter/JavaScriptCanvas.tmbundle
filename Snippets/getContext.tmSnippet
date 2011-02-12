@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ctx = ${1:canvas}.getContext('${2:2d}');</string>
+	<key>name</key>
+	<string>getContext</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>29BF581B-3DA2-48A5-9E00-64E9B0F6DB9D</string>
+</dict>
+</plist>

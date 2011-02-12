@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.arc(${2:x}, ${3:y}, ${4:radius}, ${5:startAngle}, ${6:endAngle}, ${7:anticlockwise});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.arc</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>0A232C6E-D716-42EB-A822-4D3C8D4F1227</string>
+</dict>
+</plist>

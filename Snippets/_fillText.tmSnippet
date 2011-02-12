@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.fillText('${2:text}', ${3:x}, ${4:y}${5:, ${6:maxWidth}});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.fillText</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>5AFB9D28-3CA7-4E66-9474-B209E4842093</string>
+</dict>
+</plist>

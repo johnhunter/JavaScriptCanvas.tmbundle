@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.quadraticCurveTo(${2:cp1x}, ${3:cp1y}, ${4:x}, ${5:y}); </string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.quadraticCurveTo</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>5E8AADB3-228D-4615-AD6D-BC4081F6D68F</string>
+</dict>
+</plist>

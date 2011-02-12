@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>function d2r (d) { return (Math.PI/180)*d; }</string>
+	<key>name</key>
+	<string>function d2n (degrees to radians)</string>
+	<key>uuid</key>
+	<string>2F2BB783-E6D6-4295-988C-5A112DB6B953</string>
+</dict>
+</plist>

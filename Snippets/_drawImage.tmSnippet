@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:ctx}.drawImage(${2:image}, ${3:x}, ${4:y});</string>
+	<key>keyEquivalent</key>
+	<string>~@c</string>
+	<key>name</key>
+	<string>.drawImage</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>uuid</key>
+	<string>405646BF-1F58-4006-943F-D8FE6A61FC80</string>
+</dict>
+</plist>
