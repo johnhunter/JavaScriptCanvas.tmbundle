@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.measureText('${2:text}');</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.measureText</string>
+	<string>measureText</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

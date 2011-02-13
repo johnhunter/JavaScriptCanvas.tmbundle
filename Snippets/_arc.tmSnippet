@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.arc(${2:x}, ${3:y}, ${4:radius}, ${5:startAngle}, ${6:endAngle}, ${7:anticlockwise});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.arc</string>
+	<string>arc</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

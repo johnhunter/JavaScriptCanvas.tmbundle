@@ -91,7 +91,14 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>Canvas</string>
+	<string>JavaScript Canvas</string>
+	<key>contactEmailRot13</key>
+	<string>wbua@wbuauhagre.vasb</string>
+	<key>contactName</key>
+	<string>John Hunter</string>
+	<key>description</key>
+	<string>A TextMate bundle for the HTML Canvas api.</string>
+	
 	<key>ordering</key>
 	<array>
 		<string>29BF581B-3DA2-48A5-9E00-64E9B0F6DB9D</string>

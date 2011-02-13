@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.lineTo(${2:x}, ${3:y});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.lineTo</string>
+	<string>lineTo</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

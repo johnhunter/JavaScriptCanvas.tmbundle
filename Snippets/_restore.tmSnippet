@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.restore();</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.restore</string>
+	<string>restore</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

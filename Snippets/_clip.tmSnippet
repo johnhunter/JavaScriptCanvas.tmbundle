@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.clip();</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.clip</string>
+	<string>clip</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

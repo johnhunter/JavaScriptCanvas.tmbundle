@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.clearRect(${2:x}, ${3:y}, ${4:width}, ${5:height});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.clearRect</string>
+	<string>clearRect</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

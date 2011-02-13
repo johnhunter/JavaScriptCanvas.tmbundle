@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.textBaseline = "${2:alphabetic/top/hanging/middle/bottom}";</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.textBaseline</string>
+	<string>textBaseline</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

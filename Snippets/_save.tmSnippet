@@ -6,9 +6,9 @@
 	<string>${1:ctx}.save();
 </string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.save</string>
+	<string>save</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.drawImage(${2:image}, ${3:x}, ${4:y}, ${5:width}, ${6:height});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.drawImage (resize)</string>
+	<string>drawImage (resize)</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

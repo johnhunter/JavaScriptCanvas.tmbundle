@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.strokeStyle = '${2:rgba(0, 0, 0, 1.0)}';</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.strokeStyle</string>
+	<string>strokeStyle</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

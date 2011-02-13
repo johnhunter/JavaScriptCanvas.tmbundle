@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.createRadialGradient(${2:x1}, ${3:y1}, ${4:r1}, ${5:x2}, ${6:y2}, ${7:r2});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.createRadialGradient</string>
+	<string>createRadialGradient</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

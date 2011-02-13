@@ -1,4 +1,4 @@
-# Canvas.tmbundle #
+# JavaScriptCanvas.tmbundle #
 
 A TextMate bundle for the HTML Canvas api.
 
@@ -13,7 +13,7 @@ For more information on Canvas see:
 
 The bundle currently only provides snippets for the Canvas api methods. This helps avoid looking up the documentation for method names and arguments. The completion also reduces typing effort.
 
-**Note:** The bundle binds the `alt-option-c` key sequence while in the `source.js` context. That means `alt-option-c` will open a context menu listing all the api methods.
+**Note:** The bundle binds the ⌃⇧⌘C `[control-shift-option-c]` key sequence while in the `source.js` context. That means ⌃⇧⌘C `[control-shift-option-c]` will open a context menu listing all the api methods.
 
 Contribution is very welcome. Fork and go for it!
 

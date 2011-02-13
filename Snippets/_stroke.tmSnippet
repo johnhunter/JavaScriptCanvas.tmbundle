@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.stroke();</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.stroke</string>
+	<string>stroke</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

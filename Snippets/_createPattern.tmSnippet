@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.createPattern(${2:image/canvas}, ${3:repeat/repeat-x/repeat-y/no-repeat});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.createPattern</string>
+	<string>createPattern</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

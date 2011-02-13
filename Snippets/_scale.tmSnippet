@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.scale(${2:x}, ${3:y});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.scale</string>
+	<string>scale</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

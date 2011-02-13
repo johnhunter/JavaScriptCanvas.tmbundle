@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.quadraticCurveTo(${2:cp1x}, ${3:cp1y}, ${4:x}, ${5:y}); </string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.quadraticCurveTo</string>
+	<string>quadraticCurveTo</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

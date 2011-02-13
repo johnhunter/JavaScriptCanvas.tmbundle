@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.closePath();</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.closePath</string>
+	<string>closePath</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.textAlign = "${2:start/center/end/left/right}";</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.textAlign</string>
+	<string>textAlign</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

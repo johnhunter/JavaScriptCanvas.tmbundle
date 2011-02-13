@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.bezierCurveTo(${2:cp1x}, ${3:cp1y}, ${4:cp2x}, ${5:cp2y}, ${6:x}, ${7:y});</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.bezierCurveTo</string>
+	<string>bezierCurveTo</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>

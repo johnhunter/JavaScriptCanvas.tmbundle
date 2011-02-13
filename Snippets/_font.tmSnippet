@@ -5,9 +5,9 @@
 	<key>content</key>
 	<string>${1:ctx}.font = "${2:normal/italic/oblique} ${3:normal/small-caps} ${4:normal/bold} ${5:1em/1.5em} ${6:Arial}, ${7:sans-}serif";</string>
 	<key>keyEquivalent</key>
-	<string>~@c</string>
+	<string>^@C</string>
 	<key>name</key>
-	<string>.font</string>
+	<string>font</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>uuid</key>
