@@ -20,12 +20,12 @@ Contribution is very welcome. Fork and go for it!
 
 ## Installation ##
 
-It should be possible to install this bundle using <del>the excellent [GetBundles bundle](https://github.com/textmate/getbundle.tmbundle),
-or</del> the [TextMate Gem](http://yehudakatz.com/2008/05/19/textmate-gem/).
+You can install this bundle using the excellent [GetBundles bundle](https://github.com/textmate/getbundle.tmbundle),
+or the [TextMate Gem](http://yehudakatz.com/2008/05/19/textmate-gem/).
 
-You can download a zip of the current version <http://bit.ly/tmcanvas> (rename the expanded folder to `JavaScriptCanvas.tmbundle`).
+You can also download a zip of the current version <http://bit.ly/tmcanvas> (rename the expanded folder to `JavaScriptCanvas.tmbundle`).
 
-Or clone the repo to your bundle folder with the following...
+...Or clone the repo to your bundle folder with the following:
 
 *	`cd ~/Library/"Application Support"/TextMate/Bundles/`
 *	if that directory wasn't found, you'll need to create it, then:
